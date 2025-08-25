@@ -22,7 +22,7 @@ npm install
 
 3. Start the server:
 ```bash
-npm start
+npm run dev
 ```
 
 The server will start on `http://localhost:4000` (or the port specified in your environment variables).
@@ -183,5 +183,5 @@ API responses vary by endpoint:
 
 Run the test suite:
 ```bash
-npm test
+npm run test
 ```
